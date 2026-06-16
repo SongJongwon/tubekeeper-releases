@@ -1,5 +1,5 @@
 {
-  "killSwitch": false,
+  "killSwitch": true,
   "minVersion": "0.0.0",
   "title": { "ko": "점검 중입니다", "en": "Under maintenance" },
   "message": { "ko": "최신 버전으로 업데이트해 주세요.", "en": "Please update to the latest version." },
