@@ -1,7 +1,8 @@
 {
-  "killSwitch": false,
+  "killSwitch": true,
   "minVersion": "0.0.0",
-  "title": { "ko": "점검 중입니다", "en": "Under maintenance" },
-  "message": { "ko": "최신 버전으로 업데이트해 주세요.", "en": "Please update to the latest version." },
+  "title": { "ko": "서비스 점검 중", "en": "Under maintenance" },
+  "message": { "ko": "현재 서비스를 일시 중단했습니다. 자세한 내용은 공지를 확인해 주세요.", "en": "The service is temporarily paused. Please check our notice." },
   "actionUrl": "https://matdori.shop"
+  "actionEnabled": true
 }
