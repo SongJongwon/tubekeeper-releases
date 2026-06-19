@@ -1,5 +1,7 @@
 # tubekeeper-releases
 
+**공식 홈페이지: https://matdori.shop**
+
 TubeKeeper 릴리즈 배포용 저장소입니다.
 
 ## 다운로드 / 설치
@@ -13,10 +15,7 @@ TubeKeeper 릴리즈 배포용 저장소입니다.
   첫 실행 시 앱 우클릭 → "열기"로 실행하세요. (자동 업데이트 미지원, 새 버전은 직접 받아 설치)
 - **Linux**: `...x.x.x.AppImage` (실행 권한 부여 후 실행) 또는 `...amd64.deb` (`sudo dpkg -i`로 설치)
 
-자세한 설치 안내와 소개는 곧 공개될 홈페이지에서 확인하실 수 있습니다.
-
-
-아직 홈페이지 만들기 전 자세한 설명 문입니다.
+자세한 안내는 공식 홈페이지에서 볼 수 있습니다: https://matdori.shop
 
 ■ TubeKeeper 설치 안내
 
