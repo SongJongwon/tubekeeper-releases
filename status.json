@@ -5,5 +5,5 @@
   "message": { "ko": "현재 서비스를 일시 중단했습니다. 자세한 내용은 공지를 확인해 주세요.", "en": "The service is temporarily paused. Please check our notice." },
   "actionUrl": "https://matdori.shop",
   "actionEnabled": true
-  "chzzkSoopEnabled": true
+  "chzzkSoopEnabled": false
 }
